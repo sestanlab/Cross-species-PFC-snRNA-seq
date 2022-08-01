@@ -14,11 +14,11 @@ Shaojie Ma, Mario Skarica, Qian Li, Chuan Xu, Ryan D. Risgaard, Andrew T.N. Tebb
 
 ### Data Availability
 
-The cross-species snRNA-seq data (raw and processed) were deposited in the NEMO Archive (RRID:SCR_002001) under identifier nemo:dat-zkgd0it accessible at [https://assets.nemoarchive.org/dat-zkgd0it](https://assets.nemoarchive.org/dat-zkgd0it). \
+The cross-species dlPFC snRNA-seq data (raw and processed) were deposited in the NEMO Archive (RRID:SCR_002001) under identifier nemo:dat-zkgd0it accessible at [https://assets.nemoarchive.org/dat-zkgd0it](https://assets.nemoarchive.org/dat-zkgd0it). 
 
-The data can also be interactively visualized at [resources.sestanlab.org/PFC](http://resources.sestanlab.org/PFC/). \
+The data can also be interactively visualized at [resources.sestanlab.org/PFC](http://resources.sestanlab.org/PFC/). 
 
-The human PFC sn-multiome data were deposited at NCBI GEO under the accession number: [GSE207334](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE207334). \
+The human dlPFC sn-multiome data were deposited at NCBI GEO under the accession number: [GSE207334](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE207334). 
 
 
 
