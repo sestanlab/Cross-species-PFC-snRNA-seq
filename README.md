@@ -15,6 +15,10 @@ The granular dorsolateral prefrontal cortex (dlPFC) is an evolutionary specializ
 
 The cross-species dlPFC snRNA-seq data (raw and processed) were deposited in the NEMO Archive (RRID:SCR_002001) under identifier nemo:dat-zkgd0it accessible at [https://assets.nemoarchive.org/dat-zkgd0it](https://assets.nemoarchive.org/dat-zkgd0it). 
 
+The raw data can also be directly downloaded from [NeMO](https://data.nemoarchive.org/biccn/grant/u01_sestan/sestan/transcriptome/sncell/10x_v3/).
+
+The processed data can also be downloaded from [google drive](https://drive.google.com/drive/folders/18MlS9uGIscY26WLZkl95rikw9EPUFyQL)
+
 The data can also be interactively visualized at [resources.sestanlab.org/PFC](http://resources.sestanlab.org/PFC/). 
 
 The human dlPFC sn-multiome data were deposited at NCBI GEO under the accession number: [GSE207334](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE207334). 
